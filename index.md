@@ -1,9 +1,9 @@
-## Welcome to Ivy Academy
+## Welcome to ABC ACADEMY
 
 ## Teaching Resources
 - [Textbook & Assignments](http://runestone.academy/)
 - [IDE](https://ide.cs50.io/)
-- [Atheno's IDE](https://ide.cs50.io/XiChenn/ide) See the code from Atheno
+- [Noah's's IDE](https://us-west-2.console.aws.amazon.com/cloud9/ide/274696662d0644b3a084cc88eab9d9c3?#) See the code from Noah
 - [Python Tutor](http://pythontutor.com/visualize.html#mode=edit) Python Visualization
 
 ## Online Judges for Code Practicing
